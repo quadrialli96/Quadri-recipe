@@ -1,0 +1,19 @@
+.head {
+    background: blue;
+    font-size: 18px;
+    text-align: center
+
+}
+
+.center {
+    background: orange;
+    text-align: center
+}
+
+.color {
+    color: red;
+}
+
+#step {
+    color: green;
+}
