@@ -1,12 +1,11 @@
+/* Egusi styling */
 .head {
-    background: blue;
+    background: orange;
     font-size: 18px;
     text-align: center
-
 }
 
 .center {
-    background: orange;
     text-align: center
 }
 
@@ -16,4 +15,24 @@
 
 #step {
     color: green;
+}
+
+/* Pizza Styling */
+.avatar {
+    background: pink;
+    font-size: 18px;
+    text-align: center
+}
+
+.photo {
+    text-align: center
+}
+
+.code {
+    color: darkred;
+}
+
+.get {
+color: chocolate;
+
 }
